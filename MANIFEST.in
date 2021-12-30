@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_LEDController/templates *
+recursive-include octoprint_LEDController/translations *
+recursive-include octoprint_LEDController/static *

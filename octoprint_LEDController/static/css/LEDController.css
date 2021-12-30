@@ -1,0 +1,14 @@
+
+.redLightOnImage{
+    content: url(../img/redLightON.png);
+}
+.redLightOffImage{
+    content: url(../img/redLightOFF.png);
+}
+
+.whiteLightOnImage{
+    content: url(../img/yellowLightON.png);
+}
+.whiteLightOffImage{
+    content: url(../img/yellowLightOFF.png);
+}
